@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630.16 391.77">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #00b0cc;
+      }
+
+      .cls-6 {
+        font-family: Roboto-Regular, Roboto;
+        font-size: 14px;
+      }
+
+      .cls-5 {
+        fill: #f33;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <rect class="cls-4" x="155.5" y="73.79" width="47" height="247"/>
+      <path class="cls-3" d="M201,75.29v244h-44V75.29h44M204,72.29h-50v250h50V72.29h0Z"/>
+    </g>
+    <path class="cls-2" d="M179,72.29V7.29v65Z"/>
+    <path class="cls-2" d="M179,385.29v-65,65Z"/>
+  </g>
+  <text class="cls-6" transform="translate(.46 324.53) scale(1.36 1)"><tspan x="0" y="0">Open Price</tspan></text>
+  <text class="cls-6" transform="translate(1.21 77.76)"><tspan x="0" y="0">Close Price</tspan></text>
+  <text class="cls-6" transform="translate(1.81 11.98)"><tspan x="0" y="0">High Price</tspan></text>
+  <text class="cls-6" transform="translate(.81 386.98)"><tspan x="0" y="0">Low Price</tspan></text>
+  <text class="cls-6" transform="translate(0 194.37)"><tspan x="0" y="0">Bullish Candlestick</tspan></text>
+  <text class="cls-6" transform="translate(256.93 195.92) scale(1.01 1)"><tspan x="0" y="0">Real Body</tspan></text>
+  <text class="cls-6" transform="translate(247.14 41.5) scale(1.01 1)"><tspan x="0" y="0">Upper Shadow</tspan></text>
+  <text class="cls-6" transform="translate(244.32 357.33) scale(1.01 1)"><tspan x="0" y="0">Lower Shadow</tspan></text>
+  <g>
+    <g>
+      <rect class="cls-5" x="373.14" y="73.95" width="47" height="247"/>
+      <path class="cls-3" d="M418.64,75.45v244h-44V75.45h44M421.64,72.45h-50v250h50V72.45h0Z"/>
+    </g>
+    <path class="cls-2" d="M396.64,72.45V7.45v65Z"/>
+    <path class="cls-2" d="M396.64,385.45v-65,65Z"/>
+  </g>
+  <text class="cls-6" transform="translate(506.32 11.98)"><tspan x="0" y="0">High Price</tspan></text>
+  <text class="cls-6" transform="translate(505.97 387.98)"><tspan x="0" y="0">Low Price</tspan></text>
+  <text class="cls-6" transform="translate(506 78.3) scale(1.36 1)"><tspan x="0" y="0">Open Price</tspan></text>
+  <text class="cls-6" transform="translate(505.81 321.98)"><tspan x="0" y="0">Close Price</tspan></text>
+  <text class="cls-6" transform="translate(507.11 188.26)"><tspan x="0" y="0">Bearish Candlestick</tspan></text>
+  <g>
+    <line class="cls-1" x1="162.96" y1="7.79" x2="75.5" y2="7.79"/>
+    <path class="cls-3" d="M169,7.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="238.5" y1="352.79" x2="195.04" y2="352.79"/>
+    <path class="cls-3" d="M189,352.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="386.46" y1="37.79" x2="342" y2="37.79"/>
+    <path class="cls-3" d="M392.5,37.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="243" y1="38.79" x2="192.04" y2="38.79"/>
+    <path class="cls-3" d="M186,38.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="499.5" y1="383.79" x2="411.54" y2="383.79"/>
+    <path class="cls-3" d="M405.5,383.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="499.5" y1="316.79" x2="434.54" y2="316.79"/>
+    <path class="cls-3" d="M428.5,316.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="499.5" y1="183.79" x2="434.54" y2="183.79"/>
+    <path class="cls-3" d="M428.5,183.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="497.5" y1="73.79" x2="436.04" y2="73.79"/>
+    <path class="cls-3" d="M430,73.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="497.5" y1="8.79" x2="412.04" y2="8.79"/>
+    <path class="cls-3" d="M406,8.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="138.96" y1="190.79" x2="121.5" y2="190.79"/>
+    <path class="cls-3" d="M145,190.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="159.96" y1="382.79" x2="70.5" y2="382.79"/>
+    <path class="cls-3" d="M166,382.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="138.96" y1="320.79" x2="97.5" y2="320.79"/>
+    <path class="cls-3" d="M145,320.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="138.96" y1="73.79" x2="78.5" y2="73.79"/>
+    <path class="cls-3" d="M145,73.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="250" y1="191.79" x2="214.04" y2="191.79"/>
+    <path class="cls-3" d="M208,191.79c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="358.96" y1="191.79" x2="323" y2="191.79"/>
+    <path class="cls-3" d="M365,191.79c-2.84-1.05-6.36-2.85-8.55-4.76l1.72,4.76-1.72,4.75c2.18-1.9,5.71-3.7,8.55-4.75Z"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="382.07" y1="353.67" x2="340.5" y2="353.8"/>
+    <path class="cls-3" d="M388.11,353.65c-2.84-1.05-6.37-2.83-8.56-4.73l1.73,4.75-1.71,4.76c2.18-1.91,5.7-3.72,8.53-4.78Z"/>
+  </g>
+</svg>
